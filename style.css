@@ -1,13 +1,13 @@
 body{
     font-family: sans-serif;
-    color: rgb(173, 165, 168);
+    color: rgb(224, 1, 83);
 }
 header{
      text-align: center;
 }
 
 span{
-    background-color: gray;
+    background-color: rgb(253, 2, 148);
     color: white;
     padding: 5px;
     border: 1px solid black;
@@ -19,4 +19,17 @@ span{
 }
 p{
   margin: 10px 0px;
+}
+div{
+  border: 1px black solid;
+  border-radius: 5px;
+  padding: 5px;
+  margin: 10px;
+}
+main{
+    margin-top: 10px;
+}
+section{
+     display: flex;
+     justify-content: center;
 }
